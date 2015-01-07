@@ -1,3 +1,8 @@
 .idea/
 libs/libs.iml
 web/web.iml
+.DS_Store
+latest-change.txt
+*-ck.js
+*.sass-cache/
+
